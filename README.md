@@ -19,3 +19,14 @@ Using the agile method we have the following:
 -Review
 
 1.2
+zero division error
+
+1.3
+git push
+
+1.4
+An unknown or missing value in a column
+
+1.5
+organisation of the project
+assignment of roles within the team

@@ -7,7 +7,15 @@ Answers for the main portion of the mock exam are found within the python file: 
 
 Answers for the theory questions are contained below:
 
+## THEORY QUESTIONS
 
-# THEORY QUESTIONS
+1.1
+Using the agile method we have the following:
+-Requirements
+-Design
+-Development
+-Testing
+-Deployment
+-Review
 
-1.1 
+1.2

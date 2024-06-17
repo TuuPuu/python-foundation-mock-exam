@@ -44,9 +44,19 @@ GROUP BY
 
 
 
+2)
+
+One option is to index the admission date column. This will help speed up output and performance
+
+A second option for improvement would be to improve the readability of our table by using aliases
+
+
+Finally we could add in some code in our parameters to handle potential null values
 
 
 
+
+________________________________________________________
 
 
 '''
